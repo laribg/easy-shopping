@@ -2,7 +2,7 @@
 <br>
 <h2> Projeto desenvolvido no programa FullStack_PRO do <a href="https://rodolfomori.com.br/devclub-n1/"> DevClub </a> </h2>
 <br>
-## 🚀 Tecnologias
+<h3> 🚀 Tecnologias </h3>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
